@@ -27,7 +27,7 @@ def hangman(word):
             break
 
 
-hangman('WORD')
+hangman('WORD')  #  Here place whatever word you want !
 
 
 
